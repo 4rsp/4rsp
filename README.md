@@ -20,14 +20,14 @@ Serves as an info dump and knowledge check...
 
 and sometimes for a quick reference on something.
 
-<details>
+**<details>
   <summary>Format strings challenges</summary>
 <!---  
 -  <kbd>[Markdown Editor](https://binarytree.dev/me)</kbd>
 -  <kbd>[Table Of Content](https://binarytree.dev/toc)</kbd>
 -  <kbd>[Markdown Table Generator](https://binarytree.dev/md_table_generator)</kbd>
 --->
-</details>
+</details>**
 
 <details>
   <summary>Heap challenges</summary>
