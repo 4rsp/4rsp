@@ -16,15 +16,60 @@ Not advanced...
 
 as expected <.<
 
-Simple tricks that everyone knows.
+Serves as an info dump and knowledge check...
 
+and sometimes for a quick reference on something.
 
 <details>
-  <summary>Format specifier challenges</summary>
-  
+  <summary>Format strings challenges</summary>
+<!---  
 -  <kbd>[Markdown Editor](https://binarytree.dev/me)</kbd>
 -  <kbd>[Table Of Content](https://binarytree.dev/toc)</kbd>
 -  <kbd>[Markdown Table Generator](https://binarytree.dev/md_table_generator)</kbd>
-
+--->
 </details>
 
+<details>
+  <summary>Heap challenges</summary>
+<!---  
+-  <kbd>[Markdown Editor](https://binarytree.dev/me)</kbd>
+-  <kbd>[Table Of Content](https://binarytree.dev/toc)</kbd>
+-  <kbd>[Markdown Table Generator](https://binarytree.dev/md_table_generator)</kbd>
+--->
+</details>
+
+<details>
+  <summary>Shellcode challenges</summary>
+<!---  
+-  <kbd>[Markdown Editor](https://binarytree.dev/me)</kbd>
+-  <kbd>[Table Of Content](https://binarytree.dev/toc)</kbd>
+-  <kbd>[Markdown Table Generator](https://binarytree.dev/md_table_generator)</kbd>
+--->
+</details>
+
+<details>
+  <summary>FSOP challenges</summary>
+<!---  
+-  <kbd>[Markdown Editor](https://binarytree.dev/me)</kbd>
+-  <kbd>[Table Of Content](https://binarytree.dev/toc)</kbd>
+-  <kbd>[Markdown Table Generator](https://binarytree.dev/md_table_generator)</kbd>
+--->
+</details>
+
+<details>
+  <summary>ROP/BOF challenges</summary>
+<!---  
+-  <kbd>[Markdown Editor](https://binarytree.dev/me)</kbd>
+-  <kbd>[Table Of Content](https://binarytree.dev/toc)</kbd>
+-  <kbd>[Markdown Table Generator](https://binarytree.dev/md_table_generator)</kbd>
+--->
+</details>
+
+---
+
+
+## Other projects
+
+Mostly inspired by other hackers...
+
+or something that could be fun.
