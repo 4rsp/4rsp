@@ -72,4 +72,8 @@ and sometimes for a quick reference on something.
 
 Mostly inspired by other hackers...
 
-or something that could be fun.
+or something that kills some time.
+
+Always prefer to practice...
+
+instead of staring them long writeups !
