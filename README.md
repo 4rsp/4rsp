@@ -74,7 +74,7 @@ Mostly inspired by other hackers...
 
 or something that kills some time.
 
-Always prefering to practice...
+Always prefering to *practice*...
 
 instead of staring them long writeups !
 
@@ -86,8 +86,9 @@ instead of staring them long writeups !
 <img src="http://uploads.disquscdn.com/images/b92b3b9c5f8886cf358a0e700dab6054f37bbc5868900f17160aa41677cbc9fe.gif">
 </p>
 
-<i>
-<p align='center'
+
+<p align='center'>
+<em>
 ntmu ntmu ntmu ntmu ntmu ntmu ntmu ntmu ntmu ntmu ntmu
+  </em>
 </p>
-</i>
