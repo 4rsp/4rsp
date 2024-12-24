@@ -22,7 +22,7 @@ and sometimes for a quick reference on something.
 
 <details>
   <summary><b>Format strings challenges</summary>
- 
+<!---
 -  <kbd>[Markdown Editor](https://binarytree.dev/me)</kbd>
 -  <kbd>[Table Of Content](https://binarytree.dev/toc)</kbd>
 -  <kbd>[Markdown Table Generator](https://binarytree.dev/md_table_generator)</kbd>
@@ -30,39 +30,39 @@ and sometimes for a quick reference on something.
 </details>
 
 <details>
-  <summary>Heap challenges</summary>
+  <summary><b>Heap challenges</summary>
 <!---  
 -  <kbd>[Markdown Editor](https://binarytree.dev/me)</kbd>
 -  <kbd>[Table Of Content](https://binarytree.dev/toc)</kbd>
 -  <kbd>[Markdown Table Generator](https://binarytree.dev/md_table_generator)</kbd>
---->
+---></b>
 </details>
 
 <details>
-  <summary>Shellcode challenges</summary>
+  <summary><b>Shellcode challenges</summary>
 <!---  
 -  <kbd>[Markdown Editor](https://binarytree.dev/me)</kbd>
 -  <kbd>[Table Of Content](https://binarytree.dev/toc)</kbd>
 -  <kbd>[Markdown Table Generator](https://binarytree.dev/md_table_generator)</kbd>
---->
+---></b>
 </details>
 
 <details>
-  <summary>FSOP challenges</summary>
+  <summary><b>FSOP challenges</summary>
 <!---  
 -  <kbd>[Markdown Editor](https://binarytree.dev/me)</kbd>
 -  <kbd>[Table Of Content](https://binarytree.dev/toc)</kbd>
 -  <kbd>[Markdown Table Generator](https://binarytree.dev/md_table_generator)</kbd>
---->
+---></b>
 </details>
 
 <details>
-  <summary>ROP/BOF challenges</summary>
+  <summary><b>ROP/BOF challenges</summary>
 <!---  
 -  <kbd>[Markdown Editor](https://binarytree.dev/me)</kbd>
 -  <kbd>[Table Of Content](https://binarytree.dev/toc)</kbd>
 -  <kbd>[Markdown Table Generator](https://binarytree.dev/md_table_generator)</kbd>
---->
+---></b>
 </details>
 
 ---
