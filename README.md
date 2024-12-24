@@ -10,6 +10,5 @@ everything is already found by someone else anyway.
 
 
 ---
-***
-___
+
 
