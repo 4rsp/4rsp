@@ -23,12 +23,10 @@ Serves as an info dump and knowledge check...
 and sometimes for a quick reference on something.
 
 
-*todo: explain the challenges better...*
-
 <details>
   <summary><b>Format strings challenges</summary>
 
-- <b>  FCSC 2022 [HARD]</b>
+- <b>  FCSC 2022 </b>
 
 <ol>
   
@@ -37,7 +35,7 @@ and sometimes for a quick reference on something.
 
 </ol>
 
-- <b> nullcon CTF 2025 [Easy]</b>
+- <b> nullcon CTF 2025 </b>
 
 <ol>
   
@@ -54,7 +52,7 @@ and sometimes for a quick reference on something.
 
 #### glibc 2.36
 
-- <b> nullcon CTF 2025 [Medium]</b>
+- <b> nullcon CTF 2025 </b>
 
 <ol>
   
@@ -65,7 +63,7 @@ and sometimes for a quick reference on something.
 
 #### glibc 2.35
 
-- <b> Imaginary CTF 2023 [Medium]</b>
+- <b> Imaginary CTF 2023 </b>
 
 <ol>
   
@@ -76,7 +74,7 @@ and sometimes for a quick reference on something.
 
 #### glibc 2.27
 
-- <b> Sunshine CTF 2023 [Easy]</b>
+- <b> Sunshine CTF 2023 </b>
 
 <ol>
   
@@ -89,7 +87,7 @@ and sometimes for a quick reference on something.
 <details>
   <summary><b>ROP/BOF challenges</summary>
     
--  <b> 0x3 CTF 2025 [Easy]</b>
+-  <b> 0x3 CTF 2025 </b>
 
 <ol>
   
