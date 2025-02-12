@@ -111,10 +111,10 @@ or something that kills time.
 Always preferring to *practice,*
 instead of staring at them long writeups !
 
-- [exit_handlers](https://github.com/4rsp/docs/tree/main/practice.tool/exit.handlers)
+- [exit_handlers](https://github.com/4rsp/docs/tree/main/practice/exit.handlers)
 > *_dl_fini and __exit_funcs* (libc 2.39)
 
-- [file struct exploits](https://github.com/4rsp/docs/blob/main/practice.tool/file.structs/README.md)
+- [file struct exploits](https://github.com/4rsp/docs/blob/main/practice/file.structs/README.md)
 > *exploiting _wide_data vtable (path=_IO_wfile_overflow) via targetting stdout* (libc 2.39)
 
 ---
