@@ -101,15 +101,14 @@ and sometimes for a quick reference on something.
 </details>
 
 
+more can be found on [writeups](https://github.com/4rsp/writeups) repo
+
 ---
 
 
 ## It's demo time! 🔨
 
-Mostly inspired by other hackers...
-or something that kills time.
-Always preferring to *practice,*
-instead of staring at them long writeups !
+my practice area. inspired by other's work 
 
 - [exit_handlers](https://github.com/4rsp/docs/tree/main/practice/exit.handlers)
 > *_dl_fini and __exit_funcs* (libc 2.39)
