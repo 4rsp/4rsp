@@ -57,6 +57,19 @@ Not advanced...
 
 </ol>
 
+
+#### glibc 2.31
+
+- <b> EHAXCTF 2025 </b>
+
+<ol>
+  
+  -  <k>[writeup](https://github.com/4rsp/writeups/tree/main/EHAXCTF-2025/cash_memo) </k>
+  > *classic heap challenge with rop on the stack* 
+
+</ol>
+
+
 #### glibc 2.27
 
 - <b> Sunshine CTF 2023 </b>
