@@ -2,26 +2,11 @@
 
 Newbie pwner, currently learning what people have already mastered... 
 
-pretty hopeless for a starter 😭
-
-I will try to share as much as i can in the progress...
-
-everything is already found by someone else anyway.
-
-<img src=https://38.media.tumblr.com/2de3e0b0f051c4ba33cd375999704ded/tumblr_ntpp3pJ1ny1uewxwpo1_500.gif>
-
 ---
 
 ## CTF Write-ups 🚩
 
 Not advanced...
-
-as expected 😞
-
-Serves as an info dump and knowledge check...
-
-and sometimes for a quick reference on something.
-
 
 <details>
   <summary><b>Format strings challenges</summary>
@@ -101,8 +86,6 @@ and sometimes for a quick reference on something.
 </details>
 
 
-more can be found on [writeups](https://github.com/4rsp/writeups) repo
-
 ---
 
 
@@ -117,11 +100,6 @@ my practice area. inspired by other's work
 > *exploiting _wide_data vtable (path=_IO_wfile_overflow) via targetting stdout* (libc 2.39)
 
 ---
-
-
-<p align='center'>
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFjM3VnanB4Z3hrdG5yZTV3ejdwOGkzeWVld3hxb2w0N2JmeGdxNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4ilFRqgbzbx4c/giphy.gif">
-</p>
 
 
 <p align='center'>
